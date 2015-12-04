@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.autentia.phonegap.pushnotifications"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.autentia.phonegap.pushnotifications"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.autentia.phonegap.pushnotifications"
+        },
+        "phonegap-plugin-push": {
+            "PACKAGE_NAME": "com.autentia.phonegap.pushnotifications"
+        },
+        "cordova-plugin-mauron85-background-geolocation": {
+            "PACKAGE_NAME": "com.autentia.phonegap.pushnotifications"
+        }
+    },
+    "dependent_plugins": {}
+}
